@@ -1,23 +1,23 @@
-# 💻 Daniel Belizki
+# Daniel Belizki
 
-**👋 Hi there! I'm Daniel, a passionate 2nd year Computer Science student and tech enthusiast.**
+**Hi there! I'm Daniel, a passionate 2nd year Computer Science student and tech enthusiast.**
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Currently studying:
+- Currently studying:
   - Java advanced programming
   - Introduction to artificial intelligence
   - Theory of Computation
   - Algorithms
-- 🛠️ I love building applications from the ground up and solving algorithmic challenges.
+- I love building applications from the ground up and solving algorithmic challenges.
 
-## 🌱 Currently Working On:
+## Currently Working On:
 
 - Human vs Ai Reversi Game
 - User Friendly Testing System
 - Digital Calculator
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 - **Languages:**  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -36,7 +36,7 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
   
-🔗 **Let’s Connect:**
+**Let’s Connect:**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielBelizki)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-belitzki-637256330)
