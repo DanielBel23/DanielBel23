@@ -14,9 +14,7 @@
 ## Currently Working On:
 
 - Human vs Ai Reversi Game
-- User Friendly Testing System
-- Digital Calculator
-
+  
 ## Languages & Tools
 
 - **Languages:**  
