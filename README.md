@@ -6,7 +6,7 @@
 
 - Currently studying:
   - Java advanced programming
-  - Introduction to artificial intelligence
+  - Introduction to artificial intelligence & ML
   - Theory of Computation
   - Algorithms
 - I love building applications from the ground up and solving algorithmic challenges.
